@@ -974,7 +974,7 @@ vertical-align: middle;*/
   top: 456px;
   margin-left:1024px;
   margin-right: px;
-  background-image: url('/home/elaes/Рабочий стол/figma/img/FeaturePj.png');
+  background-image: url('/img/FeaturePj.png');
   background-size: auto;
   background-size: ;
   background-repeat:no-repeat;
@@ -989,7 +989,7 @@ vertical-align: middle;*/
   display: flex;
   width: 208px;
   height: 40px;
-  background-image: url('/home/elaes/Рабочий стол/figma/img/Back Button(1).jpg');
+  background-image: url('/img/Back Button(1).jpg');
   background-size:cover ;
   background-position: top;
 
@@ -1004,7 +1004,7 @@ vertical-align: middle;*/
   position: relative;
   display: flex;
   z-index: ;
-  background-image: url('/home/elaes/Рабочий стол/figma/img/Next Button.jpg');
+  background-image: url('/img/Next Button.jpg');
   background-size: cover;
   background-size: cover;
   
@@ -1080,14 +1080,14 @@ vertical-align: middle;*/
   height: 64px;
   position: relative;
   margin: 0 235px 0 0; 
-  background-image: url("/home/elaes/Рабочий стол/figma/img/Back Buttona.jpg");
+  background-image: url("/img/Back Buttona.jpg");
   background-size: cover;
   float: ;
 }
 .nexton {
   width: 295px;
   height: 64px;
-  background-image: url("/home/elaes/Рабочий стол/figma/img/Next Buttone.png");
+  background-image: url("/img/Next Buttone.png");
   position:relative ;
   background-size: cover;
   float: ;
@@ -1237,7 +1237,7 @@ select{
   top: px;
   left: px;
   background-color:#FFF ;
-  background-image: url("/home/elaes/Рабочий стол/figma/img/Frame 3.png");
+  background-image: url("/img/Frame 3.png");
   background-position: top 10px;
   background-repeat: no-repeat;
   background-position: center;
@@ -1274,7 +1274,7 @@ textarea[name="review_text"] {
 
 #send input[value=""]{
   position: ;
-  background-image: url("/home/elaes/Рабочий стол/figma/img/b2.png");  
+  background-image: url("/img/b2.png");  
   cursor: pointer;
   z-index: ;
   margin-left: 161px;
@@ -1478,7 +1478,7 @@ line-height: normal;
   justify-content: center;
   align-items: center;
   position: absolute;
-  background-image: url("/home/elaes/Рабочий стол/figma/img/btr.png");  
+  background-image: url("/img/btr.png");  
   cursor: pointer;
   left: 288px;
    top: 43px;
@@ -1510,7 +1510,7 @@ line-height: normal;
    width: 40px;
   height: 40px;
   border: none;
-  background-image: url('/home/elaes/Рабочий стол/figma/img/f.png');
+  background-image: url('/img/f.png');
   background-size: cover;
   margin-right: 20px;
 }
@@ -1519,14 +1519,14 @@ line-height: normal;
   height: 40px;
   border: none;
   margin-right: 20px;
-  background-image: url('/home/elaes/Рабочий стол/figma/img/i.png');
+  background-image: url('/img/i.png');
   background-size: cover;
 }
 .img-bat2 {
    width: 40px;
   height: 40px;
   border: none;
-  background-image: url('/home/elaes/Рабочий стол/figma/img/t.png');
+  background-image: url('/img/t.png');
   background-size: cover;
 }
 
